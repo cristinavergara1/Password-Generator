@@ -7,3 +7,12 @@ Este proyecto es un generador sencillo de contraseña segura en Python. Permite 
 - Dígitos numéricos (0–9)
 
 - Caracteres especiales (símbolos)
+
+
+Una vez descargardo y descomprimido ejecuta en la terminal:
+
+cd C:\Users\Usuario\Downloads\Password-Generator-main
+
+y luego
+
+python PasswordGen.py
